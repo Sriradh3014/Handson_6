@@ -1,6 +1,6 @@
 # Handson_6
 
-#3)Mathematically derive the average runtime complexity of the non-random pivot version of quicksort.
+# 3)Mathematically derive the average runtime complexity of the non-random pivot version of quicksort.
 
 To determine the average runtime complexity of the non-random pivot quicksort, let's begin by examining its recurrence relation.
 
